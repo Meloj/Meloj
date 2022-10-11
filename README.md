@@ -4,14 +4,14 @@
 </div>
 
 ### 🇺🇸 Hi! My name is João Paulo and this is my profile, thanks for the visiting😄👋.
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Unity and C#
 - 📚 Information Systems student at Unilasalle-RJ
 - 🗺 I live in Rio de Janeiro - Brazil
 - 🎮 Playing video games is something I enjoy in my spare time
 ##
 
 ### 🇧🇷 Olá! Me chamo João Paulo e este é meu perfil, obrigado pela visita😄👋.
-- 🌱 Estou estudando Python e JavaScript
+- 🌱 Estou estudando Unity e C#
 - 📚 Aluno de Sistemas de Informação na Unilasalle-RJ
 - 🗺 Moro no Rio de Janeiro - Brasil
 - 🎮 Gosto de jogar video game no meu tempo livre
